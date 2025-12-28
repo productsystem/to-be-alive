@@ -1,7 +1,25 @@
 # day zero
 
-everything feels still.
+[left]everything feels still.[/left]
 
-[color:red]but something is moving[/color]
+[center][color:red]but something is moving[/color][/center]
 
-[rainbow][bounce]quietly[/bounce][/rainbow]
+[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
+
+[left]everything feels still.[/left]
+
+[center][color:red]but something is moving[/color][/center]
+
+[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
+
+[left]everything feels still.[/left]
+
+[center][color:red]but something is moving[/color][/center]
+
+[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
+
+[left]everything feels still.[/left]
+
+[center][color:red]but something is moving[/color][/center]
+
+[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
