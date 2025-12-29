@@ -1,25 +1,7 @@
-# day zero
-
-[left]everything feels still.[/left]
-
-[center][color:red]but something is moving[/color][/center]
-
-[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
-
-[left]everything feels still.[/left]
-
-[center][color:red]but something is moving[/color][/center]
-
-[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
-
-[left]everything feels still.[/left]
-
-[center][color:red]but something is moving[/color][/center]
-
-[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
-
-[left]everything feels still.[/left]
-
-[center][color:red]but something is moving[/color][/center]
-
-[right][rainbow][bounce]quietly[/bounce][/rainbow][/right]
+# day-zero
+[left]
+its cold and empty. i can't hear myself scream.
+i can't really see anything but i can feel the heat around me.
+im blind.
+am i allowed to use "can't" over "cannot"?
+[/left]
